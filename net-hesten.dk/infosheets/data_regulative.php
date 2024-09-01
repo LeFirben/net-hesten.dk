@@ -162,11 +162,10 @@ require_once("{$basepath}/global_modules/header.php"); ?>
 
 		<h1>Hvem deler vi dine data med</h1>
 
-		<h2 id="owners">Ejerne</h2><!-- since 17. marts 2020 -->
-		<p>Stutteri TækHesten styres af Chris Olesen: <br /> &bullet;&nbsp;<a href="https://www.facebook.com/chris.olesen1">Facebook</a> &bullet;&nbsp;<a href="https://www.linkedin.com/in/chrisolesen1/">LinkedIN</a></p>
-		<p>Stutteri Net-Hesten styres af Line Jensen:<br /> &bullet;&nbsp;<a href="https://www.facebook.com/LineBineBone">Facebook</a></p>
-		<p>I samarbejde driver vi net-hesten.dk som et privat projekt</p>
-		<p>Begge parter har som værende de officielle ejere af sitet, ubeskåret adgang til alle oplysninger.</p>
+		<h2 id="owners">Ejeren</h2><!-- since 17. marts 2020 -->
+		<p>Stutteri Feathers styres af Emily Mortensen
+		<p>Alene med hjælp fra nogle af mine venner driver jeg net-hesten.dk som et privat projekt</p>
+		<p>Jeg har som værende den officielle ejer af sitet, ubeskåret adgang til alle oplysninger.</p>
 
 		<h2 id="police">Politiet</h2><!-- since 17. marts 2020 -->
 		<p>Net-Hesten er et spil, der henvender sig til en relativt bred målgruppe, men især henvender vi os også til helt unge brugere</p>
