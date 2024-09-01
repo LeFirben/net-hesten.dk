@@ -163,7 +163,7 @@ require_once("{$basepath}/global_modules/header.php"); ?>
 		<h1>Hvem deler vi dine data med</h1>
 
 		<h2 id="owners">Ejeren</h2><!-- since 17. marts 2020 -->
-		<p>Stutteri Feathers styres af Emily Mortensen
+		<p>Stutteri Feathers styres af Emily Mortensen</p>
 		<p>Alene med hjælp fra nogle af mine venner driver jeg net-hesten.dk som et privat projekt</p>
 		<p>Jeg har som værende den officielle ejer af sitet, ubeskåret adgang til alle oplysninger.</p>
 
